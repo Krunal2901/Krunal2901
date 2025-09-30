@@ -22,10 +22,22 @@
 ## 🛠️ Tech Stack
 
 **Languages & Tools**
-Python | SQL | Pandas | NumPy | Scikit-learn | TensorFlow | Keras | Power BI | Matplotlib | Seaborn | Streamlit | CRM | Client & Stakeholder Management
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow
+- Keras
+- Power BI
+- Matplotlib
+- Seaborn
+- Streamlit
+- CRM
+- Client & Stakeholder Management
 
 **Soft Skills**
-Teamwork 🤝 | Problem Solving 🧩 | Communication 💬 
+- Teamwork 🤝 | Problem Solving 🧩 | Communication 💬 
 
 ---
 
@@ -37,3 +49,12 @@ Teamwork 🤝 | Problem Solving 🧩 | Communication 💬
 **HR Recruiter @ TekPillar Services Pvt Ltd (Sept 2023 – April 2024, Surat)**
 - Sourced candidates & managed interview process
 - Streamlined onboarding for selected candidates
+
+---
+
+# GitHub
+## 📈 GitHub Stats
+![Krunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krunal2901&show_icons=true&theme=radical)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.vercel.app?user=Krunal2901&theme=radical&hide_border=true)
